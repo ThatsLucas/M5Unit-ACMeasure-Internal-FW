@@ -2,6 +2,7 @@
 
 Firmware for the M5Stack UNIT_ACMEASURE module (AC sensor HLW8032 + STM32G030F6Px).
 
+This fork fix the issue that stopped the mesurements if the current was 0.
 ---
 
 ## Requirements
